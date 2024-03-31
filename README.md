@@ -15,6 +15,10 @@ Acesta este un joc Pong simplu implementat pe o placă Arduino folosind un afiș
 - Pinii SCLK, MOSI, CS, RST, DC ai afișajului se conectează la pinii Arduino configurați în cod
 - Butoanele se conectează între pinii digitali 2 și 3 și GND, cu rezistențe pull-up activate intern
 
+## Schema electrică realizată cu soft-ul `Fritzing 0.9.3b`
+
+![Alt text](URL "https://github.com/ionescuionut1708/PongGame-Arduino/blob/main/Schema%20electrica.png")
+
 ## Biblioteci necesare
 
 - SPI.h
