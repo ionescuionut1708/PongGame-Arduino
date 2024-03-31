@@ -17,7 +17,7 @@ Acesta este un joc Pong simplu implementat pe o placă Arduino folosind un afiș
 
 ## Schema electrică realizată cu soft-ul `Fritzing 0.9.3b`
 
-![Alt text](URL "https://github.com/ionescuionut1708/PongGame-Arduino/blob/main/Schema%20electrica.png")
+![Schema electrică](https://github.com/ionescuionut1708/PongGame-Arduino/blob/main/Schema%20electrica.png)
 
 ## Biblioteci necesare
 
